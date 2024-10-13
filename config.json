@@ -1,0 +1,8 @@
+{
+    "local": {
+        "test_set_path": "test_folder",
+        "train_set_path": "train_folder",
+        "val_set_path": "val_folder",
+        "model_path": "model_path"
+    }
+}
