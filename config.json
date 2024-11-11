@@ -1,8 +1,9 @@
 {
     "local": {
-        "test_set_path": "test_folder",
-        "train_set_path": "train_folder",
-        "val_set_path": "val_folder",
-        "model_path": "models/model2.keras"
+        "test_set_path": "data/datasets/test",
+        "train_set_path": "data/datasets/train",
+        "val_set_path": "data/datasets/val",
+        "model_path": "models/q1_model.h5", 
+        "cifar_model_path_base": "models/cifar10_base_model.keras"
     }
 }
